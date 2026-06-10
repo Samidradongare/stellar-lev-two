@@ -175,7 +175,7 @@ To manually deploy using the `stellar` CLI:
 *   **Donation flow**
 ![image alt](https://github.com/Samidradongare/stellar-lev-two/blob/d867dcea01f63374638efe5768defecbe81ce814/Screenshot%202026-06-11%20030948.png)   
 
-*   **Adoption completed**
+*   **Donation completed**
 ![image alt](https://github.com/Samidradongare/stellar-lev-two/blob/d867dcea01f63374638efe5768defecbe81ce814/Screenshot%202026-06-11%20031103.png)
 
 ---
