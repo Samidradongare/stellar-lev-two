@@ -167,7 +167,10 @@ To manually deploy using the `stellar` CLI:
 
 *(Add your screenshot images to these paths)*
 *   **Dashboard view**: `./screenshots/dashboard.png`
-*   **Connected Wallet**: `./screenshots/wallet_connected.png`
+*   **Connected Wallet**: `
+
+      https://github.com/Samidradongare/stellar-lev-two/blob/6e91c221db112cd552bb877673afe51fb0eee53a/Screenshot%202026-06-11%20023839.png
+*   
 *   **Donation flow**: `./screenshots/donation_modal.png`
 *   **Adoption completed**: `./screenshots/adoption_completed.png`
 
